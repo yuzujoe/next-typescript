@@ -1,0 +1,22 @@
+{
+  "name": "next-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuzujoe/next-typescript.git",
+  "author": "ohira yuzuru <yuzu-joe@ichain.co.jp>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^12.7.1",
+    "@types/react": "^16.9.1",
+    "@types/react-dom": "^16.8.5",
+    "next": "^9.0.3",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "typescript": "^3.5.3"
+  }
+}
